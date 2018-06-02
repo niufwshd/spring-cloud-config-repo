@@ -1,2 +1,4 @@
 test-config-version:
   1.2
+
+test-password: {cipher}281269725541fa360b69b16f99ee822cf8d971caee666877fe72c795103e93fa
